@@ -1,0 +1,12 @@
+C:\Users\user\Documents\System-programming\MankLibrary\MankLibrary\obj\Debug\MankLibrary.csproj.AssemblyReference.cache
+C:\Users\user\Documents\System-programming\MankLibrary\MankLibrary\obj\Debug\MankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\System-programming\MankLibrary\MankLibrary\bin\Debug\MankLibrary.dll
+C:\Users\user\Documents\System-programming\MankLibrary\MankLibrary\bin\Debug\MankLibrary.pdb
+C:\Users\user\Documents\System-programming\MankLibrary\MankLibrary\obj\Debug\MankLibrary.dll
+C:\Users\user\Documents\System-programming\MankLibrary\MankLibrary\obj\Debug\MankLibrary.pdb
+C:\Users\denis\Desktop\Новая папка (4)\MankLibrary\MankLibrary\bin\Debug\MankLibrary.dll
+C:\Users\denis\Desktop\Новая папка (4)\MankLibrary\MankLibrary\bin\Debug\MankLibrary.pdb
+C:\Users\denis\Desktop\Новая папка (4)\MankLibrary\MankLibrary\obj\Debug\MankLibrary.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\Новая папка (4)\MankLibrary\MankLibrary\obj\Debug\MankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Новая папка (4)\MankLibrary\MankLibrary\obj\Debug\MankLibrary.dll
+C:\Users\denis\Desktop\Новая папка (4)\MankLibrary\MankLibrary\obj\Debug\MankLibrary.pdb
